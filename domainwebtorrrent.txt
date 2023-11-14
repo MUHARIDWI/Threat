@@ -1,10 +1,10 @@
-www.*utorrent.com/
-torrentz2eu.org/
-torrentz2.io/#gsc.tab=0
-torrentz2.nz/
-idope.skin/
-torrentsites.com/idope/
-www.*utorrent.com/
+utorrent.com
+torrentz2eu.org
+torrentz2.io
+torrentz2.nz
+idope.skin
+torrentsites.com
+www.*.utorrent.com
 www.*bittorrent.com/
 apps.microsoft.com/detail/%E2%A8%89-torrent-torrents-download-manager/9MZL6B04QQR6?hl=id-id&gl=KR
 www.*techradar.com/best/torrent-client
