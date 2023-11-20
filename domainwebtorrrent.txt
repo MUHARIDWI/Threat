@@ -44,8 +44,8 @@ www.*.website.informer.com
 www.*.iptorrents.eu
 www.*.nyaa.si
 www.*.nya.iss.one
-fitgirl-repacks.site
-fitgirl-repack.com
+www.*.fitgirl-repacks.site
+www.*.fitgirl-repack.com
 www.*.skidrowreloaded.com
 www.*.skidrowreloadedcrack.com
 igg-games.com
