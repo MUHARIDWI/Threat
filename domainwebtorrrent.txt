@@ -61,7 +61,7 @@ ww1.kickass.help
 torrends.to
 techdator.net
 alternativeto.net
-http://ww25.ettv-torrent.com
+ww25.ettv-torrent.com
 eztvstatus.org
 yts-official.org
 yts.rs
@@ -82,13 +82,13 @@ iigggames.com
 torrentgalaxy.buzz
 proxygalaxy.me
 unblockit.foo
-torrentgalaxy.unblockit.foo&status=504&request=
+torrentgalaxy.unblockit.foo
 thekickasstorrents.to
 ww1.kickass.help
 torrends.to
 techdator.net
 alternativeto.net
-http://ww25.ettv-torrent.com
+www.*.ww25.ettv-torrent.com
 eztvstatus.org
 skytorrents.softonic-id.com
 torrends.to
